@@ -10,14 +10,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-07-12 17:04:50</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>1f61e94eb16022007f448cbbcc2216ca</sys_id>
+        <sys_id>de5c6542ed6022007f44dc69cd3a4562</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_k16_table</sys_name>
         <sys_package display_value="K16" source="x_k16">a47c41cab16022007f448cbbcc221642</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="K16">a47c41cab16022007f448cbbcc221642</sys_scope>
-        <sys_update_name>ua_table_licensing_config_1f61e94eb16022007f448cbbcc2216ca</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_de5c6542ed6022007f44dc69cd3a4562</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2016-07-12 17:04:50</sys_updated_on>
     </ua_table_licensing_config>
